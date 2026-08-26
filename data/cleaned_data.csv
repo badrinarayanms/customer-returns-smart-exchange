@@ -1,0 +1,146 @@
+response_id,age_group,gender,purchase_frequency,ever_returned,return_count,main_return_reason,wanted_exchange,exchange_available,replacement_unavailable,what_happened_when_unavailable,ingested_at,return_count_missing
+37,26-35,Female,Once every 3 months,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+42,26-35,Male,Rarely,Yes,2,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+59,36-45,Non-binary,2-3 times a month,Yes,4,Wrong Size,Yes,No,Other,Kept the Product,2026-08-26T14:19:57.676Z,0
+66,46-55,Male,Rarely,Yes,1,Wrong Color,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+71,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+88,56+,Female,Once every 3 months,Yes,3,Damaged Product,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+103,56+,Female,Once every 3 months,Yes,3,Other,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+15,18-25,Unknown,Rarely,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+82,26-35,Female,Once every 3 months,Yes,2,Poor Quality,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+83,56+,Non-binary,2-3 times a month,Yes,3,Damaged Product,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+108,56+,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+117,26-35,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+123,56+,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+128,56+,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+137,26-35,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+7,26-35,Female,Once every 3 months,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+25,18-25,Female,Once every 3 months,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+27,26-35,Male,Rarely,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+33,56+,Male,Rarely,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+55,18-25,Female,Once every 3 months,Yes,5,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+70,18-25,Female,Once every 3 months,Yes,5,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+89,36-45,Non-binary,2-3 times a month,Yes,4,Product Didn't Match Description,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+107,26-35,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+114,36-45,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+149,46-55,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+4,36-45,Female,Once every 3 months,Yes,4,Wrong Size,Yes,No,No Stock in Desired Size,Not Applicable,2026-08-26T14:19:57.676Z,0
+12,26-35,Male,Rarely,Yes,2,Wrong Size,Yes,Yes,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+14,36-45,Non-binary,2-3 times a month,Yes,4,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+35,18-25,Non-binary,2-3 times a month,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+45,18-25,Male,Rarely,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+58,56+,Female,Once every 3 months,Yes,3,Wrong Color,Yes,No,Exchange Not Offered,Bought Another Product,2026-08-26T14:19:57.676Z,0
+93,56+,Male,Rarely,Yes,3,Product Didn't Match Description,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+94,36-45,Female,Once every 3 months,Yes,4,Changed Mind,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+96,46-55,Male,Rarely,Yes,1,Changed Mind,Yes,Yes,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+145,18-25,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+1,46-55,Female,Once every 3 months,Yes,1,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+22,26-35,Female,Once every 3 months,Yes,2,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+72,26-35,Male,Rarely,Yes,2,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+121,46-55,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+124,36-45,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+125,18-25,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+17,26-35,Non-binary,2-3 times a month,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+20,18-25,Non-binary,2-3 times a month,Yes,5,Wrong Size,Yes,Yes,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+75,18-25,Male,Rarely,Yes,5,Poor Quality,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+80,18-25,Non-binary,2-3 times a month,Yes,5,Poor Quality,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+112,26-35,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+119,36-45,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+133,56+,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+150,18-25,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+8,56+,Unknown,2-3 times a month,Yes,3,Wrong Size,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+10,18-25,Female,Once every 3 months,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+28,56+,Female,Once every 3 months,Yes,3,Wrong Size,Yes,Yes,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+52,26-35,Female,Once every 3 months,Yes,2,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+77,26-35,Non-binary,2-3 times a month,Yes,2,Poor Quality,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+81,46-55,Male,Rarely,Yes,1,Poor Quality,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+18,56+,Male,Rarely,Yes,3,Wrong Size,Yes,No,Exchange Not Offered,Bought Another Product,2026-08-26T14:19:57.676Z,0
+19,36-45,Female,Unknown,Yes,4,Wrong Size,Yes,No,Other,Kept the Product,2026-08-26T14:19:57.676Z,0
+39,36-45,Male,Rarely,Yes,4,Wrong Size,Yes,No,Other,Kept the Product,2026-08-26T14:19:57.676Z,0
+60,18-25,Male,Rarely,Yes,5,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+64,36-45,Female,Once every 3 months,Yes,4,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+85,Unknown,Female,Once every 3 months,Yes,5,Damaged Product,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+102,26-35,Male,Rarely,Yes,2,Other,Yes,No,No Stock in Desired Size,Unknown,2026-08-26T14:19:57.676Z,0
+127,26-35,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+134,36-45,Non-binary,Unknown,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+24,36-45,Male,Rarely,Yes,4,Wrong Size,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+30,18-25,Male,Rarely,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+31,46-55,Female,Once every 3 months,Yes,1,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+47,26-35,Non-binary,2-3 times a month,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+51,46-55,Male,Rarely,Yes,1,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+69,36-45,Male,Rarely,Yes,4,Wrong Color,Yes,No,Other,Kept the Product,2026-08-26T14:19:57.676Z,0
+73,56+,Female,Sometimes,Yes,3,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+87,26-35,Male,Rarely,Yes,2,Damaged Product,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+91,46-55,Female,Once every 3 months,Yes,1,Product Didn't Match Description,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+99,36-45,Male,Rarely,Yes,4,Late Delivery,Yes,No,Other,Kept the Product,2026-08-26T14:19:57.676Z,0
+115,18-25,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+130,18-25,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+131,46-55,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+143,56+,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+3,56+,Male,Rarely,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+6,46-55,Female,Rarely,Yes,1,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+9,36-45,Male,Rarely,Yes,4,Wrong Size,Yes,No,Other,Kept the Product,2026-08-26T14:19:57.676Z,0
+38,56+,Non-binary,2-3 times a month,Yes,3,Wrong Size,Yes,No,Exchange Not Offered,Bought Another Product,2026-08-26T14:19:57.676Z,0
+41,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+74,36-45,Non-binary,2-3 times a month,Yes,4,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+110,18-25,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+149,36-45,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+5,18-25,Non-binary,2-3 times a month,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+11,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+44,36-45,Unknown,2-3 times a month,Yes,4,Wrong Size,Yes,Yes,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+67,26-35,Female,Once every 3 months,Yes,2,Wrong Color,Yes,No,Unknown,Waited for Restock,2026-08-26T14:19:57.676Z,0
+100,18-25,Female,Once every 3 months,Yes,5,Late Delivery,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+116,46-55,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+120,18-25,Unknown,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+2,26-35,Non-binary,2-3 times a month,Yes,2,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+46,46-55,Female,Once every 3 months,Yes,1,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+57,26-35,Male,Rarely,Yes,2,Wrong Color,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+63,56+,Male,Rarely,Yes,3,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+76,46-55,Female,Once every 3 months,Yes,1,Poor Quality,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+59,36-45,Non-binary,2-3 times a month,Yes,4,Wrong Color,Yes,No,Other,Kept the Product,2026-08-26T14:19:57.676Z,0
+84,36-45,Male,Rarely,Yes,null,Damaged Product,Yes,Yes,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,1
+129,36-45,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+135,18-25,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+140,18-25,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+142,26-35,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+147,26-35,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+29,36-45,Non-binary,2-3 times a month,Yes,-1,Wrong Size,Yes,No,Other,Kept the Product,2026-08-26T14:19:57.676Z,0
+32,26-35,Non-binary,2-3 times a month,Yes,2,Unknown,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+49,36-45,Female,Once every 3 months,Yes,4,Wrong Color,Yes,No,Other,Kept the Product,2026-08-26T14:19:57.676Z,0
+65,18-25,Non-binary,2-3 times a month,Yes,5,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+92,26-35,Non-binary,2-3 times a month,Yes,2,Product Didn't Match Description,Maybe,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+101,46-55,Non-binary,2-3 times a month,Yes,1,Other,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+105,18-25,Male,Rarely,Yes,5,Other,Yes,No,No Stock in Desired Size,returned the product,2026-08-26T14:19:57.676Z,0
+106,46-55,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+126,46-55,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+148,56+,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+23,26-35,Non-binary,2-3 times a month,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+34,36-45,Female,Once every 3 months,Yes,4,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+48,56+,Male,Rarely,Yes,3,Wrong Size,Unknown,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+53,56+,Non-binary,2-3 times a month,Yes,3,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+54,36-45,Male,Rarely,Yes,4,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+61,46-55,Female,Once every 3 months,Yes,1,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+68,56+,Non-binary,2-3 times a month,Yes,3,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+78,56+,Male,Rarely,Yes,3,Poor Quality,Yes,No,Exchange Not Offered,Bought Another Product,2026-08-26T14:19:57.676Z,0
+90,18-25,Male,Rarely,Yes,5,Product Didn't Match Description,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+95,18-25,Non-binary,2-3 times a month,Yes,5,Changed Mind,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+109,36-45,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+122,26-35,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+144,36-45,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+13,56+,Female,Once every 3 months,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+26,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock,2026-08-26T14:19:57.676Z,0
+43,56+,Female,Once every 3 months,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+86,46-55,Non-binary,2-3 times a month,Yes,1,Damaged Product,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+104,36-45,Non-binary,2-3 times a month,Yes,4,Other,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+132,26-35,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+136,46-55,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+139,36-45,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+16,46-55,Female,Once every 3 months,Yes,1,Wrong Size,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+36,46-55,Male,Once a month,Yes,1,Wrong Size,Yes,Yes,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+50,18-25,Non-binary,2-3 times a month,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product,2026-08-26T14:19:57.676Z,0
+56,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+97,26-35,Female,Once every 3 months,Yes,2,Changed Mind,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+98,56+,Non-binary,2-3 times a month,Yes,3,Late Delivery,No,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+111,46-55,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+118,56+,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0
+141,46-55,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable,2026-08-26T14:19:57.676Z,0

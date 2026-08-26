@@ -1,0 +1,151 @@
+response_id,age_group,gender,purchase_frequency,ever_returned,return_count,main_return_reason,wanted_exchange,exchange_available,replacement_unavailable,what_happened_when_unavailable
+1,46-55,Female,Once every 3 months,Yes,1,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+2,26-35,Non-binary,2-3 times a month,Yes,2,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+3,56+,Male,Rarely,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+4,36-45,Female,Once every 3 months,Yes,4,Wrong Size,Yes,Yes,No Stock in Desired Size,Not Applicable
+5,18-25,Non-binary,2-3 times a month,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+6,46-55,female,Rarely,Yes,1,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock
+7,26-35,Female,Once every 3 months,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock
+8,56+,,2-3 times a month,Yes,3,Wrong Size,No,Not Applicable,Not Applicable,Not Applicable
+9,36-45,Male,Rarely,Yes,4,Wrong Size,Yes,No,Other,Kept the Product
+10,18-25,Female,Once every 3 months,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+11,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+12,26-35,Male,Rarely,Yes,2,Wrong Size,Yes,Yes,Not Applicable,Not Applicable
+13,56+,Female,Once every 3 months,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+14,36-45,Non-binary,2-3 times a month,Yes,4,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+15,18-25,Unknown,Rarely,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+16,46-55,Female,Once every 3 months,Yes,1,Wrong Size,No,Not Applicable,Not Applicable,Not Applicable
+17,26-35,Non-binary,2-3 times a month,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock
+18,56+,Male,Rarely,Yes,3,Wrong Size,Yes,No,Exchange Not Offered,Bought Another Product
+19,36-45,Female,,Yes,4,Wrong Size,Yes,No,Other,Kept the Product
+20,18-25,Non-binary,2-3 times a month,Yes,5,Wrong Size,Yes,Yes,Not Applicable,Not Applicable
+13,56+,Female,Once every 3 months,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+22,26-35,Female,Once every 3 months,Yes,2,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+23, 26-35 ,Non-binary,2-3 times a month,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+24,36-45,Male,Rarely,Yes,4,Wrong Size,No,Not Applicable,Not Applicable,Not Applicable
+25,18-25,Female,Once every 3 months,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+26,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock
+27,26-35,Male,Rarely,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock
+28,56+,Female,Once every 3 months,Yes,3,Wrong Size,Yes,Yes,Not Applicable,Not Applicable
+29,36-45,Non-binary,2-3 times a month,Yes,-1,Wrong Size,Yes,No,Other,Kept the Product
+30,18-25,Male,Rarely,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+31,46-55,Female,Once every 3 months,Yes,1,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+32,26-35,Non-binary,2-3 times a month,Yes,2,,No,Not Applicable,Not Applicable,Not Applicable
+33,56+,Male,Rarely,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+34,36-45,Female,Once every 3 months,Yes,4,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+35,18-25,Non-binary,2-3 times a month,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+36,46-55,Male,Once a month ,Yes,1,Wrong Size,Yes,Yes,Not Applicable,Not Applicable
+37,26-35,Female,Once every 3 months,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock
+38,56+,Non-binary,2-3 times a month,Yes,3,Wrong Size,Yes,No,Exchange Not Offered,Bought Another Product
+39,36-45,Male,Rarely,Yes,4,Wrong Size,Yes,No,Other,Kept the Product
+28,56+,Female,Once every 3 months,Yes,3,Wrong Size,Yes,Yes,Not Applicable,Not Applicable
+41,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+42,26-35,Male,Rarely,Yes,2,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+43,56+,Female,Once every 3 months,Yes,3,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+44,36-45,   ,2-3 times a month,Yes,4,Wrong Size,Yes,Yes,Not Applicable,Not Applicable
+45,18-25,Male,Rarely,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+46,46-55,Female,Once every 3 months,Yes,1,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock
+47,26-35,Non-binary,2-3 times a month,Yes,2,Wrong Size,Yes,No,No Stock in Desired Color,Waited for Restock
+48,56+,Male,Rarely,Yes,3,Wrong Size,,Not Applicable,Not Applicable,Not Applicable
+49,36-45,Female,Once every 3 months,Yes,4,Wrong Color,Yes,No,Other,Kept the Product
+50,18-25,Non-binary,2-3 times a month,Yes,5,wrong size,Yes,No,No Stock in Desired Size,Returned the Product
+51,46-55,Male,Rarely,Yes,1,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+52,26-35,Female,Once every 3 months,Yes,2,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable
+53,56+,Non-binary,2-3 times a month,Yes,3,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+54,36-45,Male,Rarely,Yes,4,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+55,18-25,Female,Once every 3 months,Yes,5,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+56,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable
+57,26-35,Male,Rarely,Yes,2,Wrong Color,Yes,No,No Stock in Desired Color,Waited for Restock
+58,56+,Female,Once every 3 months,Yes,3,Wrong Color,Yes,No,Exchange Not Offered,Bought Another Product
+59,36-45,Non-binary,2-3 times a month,Yes,4,Wrong Szie,Yes,No,Other,Kept the Product
+60,18-25,Male,Rarely,Yes,5,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable
+61,46-55,Female,Once every 3 months,Yes,1,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+45,18-25,Male,Rarely,Yes,5,Wrong Size,Yes,No,No Stock in Desired Size,Returned the Product
+63,56+,Male,Rarely,Yes,3,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+64,36-45,Female,Once every 3 months,Yes,4,Wrong colour,No,Not Applicable,Not Applicable,Not Applicable
+65,18-25,Non-binary,2-3 times a month,Yes,5,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+66,46-55,Male,Rarely,Yes,1,Wrong Color,Yes,No,No Stock in Desired Color,Waited for Restock
+67,26-35,Female,Once every 3 months,Yes,2,Wrong Color,Yes,No,,Waited for Restock
+68,56+,Non-binary,2-3 times a month,Yes,3,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable
+69,36-45,Male,Rarely,Yes,4,Wrong Color,Yes,No,Other,Kept the Product
+70,18-25,Female,Once every 3 months,Yes,5,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+71,46-55,Non-binary,2-3 times a month,Yes,1,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+72,26-35,Male,Rarely,Yes,2,Wrong Color,No,Not Applicable,Not Applicable,Not Applicable
+73,56+,Female,Sometimes,Yes,3,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+74,36-45,Non-binary,2-3 times a month,Yes,4,Wrong Color,Yes,No,No Stock in Desired Size,Returned the Product
+75,18-25,Male,Rarely,Yes,5,Poor Quality, YES ,No,No Stock in Desired Size,Returned the Product
+76,46-55,Female,Once every 3 months,Yes,1,Poor Quality,No,Not Applicable,Not Applicable,Not Applicable
+77,26-35,Non-binary,2-3 times a month,Yes,2,Poor Quality,No,Not Applicable,Not Applicable,Not Applicable
+78,56+,Male,Rarely,Yes,3,Poor Quality,Yes,No,Exchange Not Offered,Bought Another Product
+59,36-45,Non-binary,2-3 times a month,Yes,4,Wrong Color,Yes,No,Other,Kept the Product
+80,18-25,Non-binary,2-3 times a month,Yes,5,Poor Quality,No,Not Applicable,Not Applicable,Not Applicable
+81,46-55,Male,Rarely,Yes,1,Poor Quality,Yes,No,No Stock in Desired Size,Returned the Product
+82,26-35,Female,Once every 3 months,Yes,2,Poor Quality,No,Not Applicable,Not Applicable,Not Applicable
+83,56+,Non-binary,2-3 times a month,Yes,3,Damaged Product,No,Not Applicable,Not Applicable,Not Applicable
+84,36-45,Male,Rarely,Yes,six,Damaged Product,Yes,Yes,Not Applicable,Not Applicable
+85,,Female,Once every 3 months,Yes,5,Damaged Product,No,Not Applicable,Not Applicable,Not Applicable
+86,46-55,Non-binary,2-3 times a month,Yes,1,Damaged Product,No,Not Applicable,Not Applicable,Not Applicable
+87,26-35,Male,Rarely,Yes,2,Damaged Product,Yes,no,No Stock in Desired Color,Waited for Restock
+88,56+,Female,Once every 3 months,Yes,3,Damaged Product,No,Not Applicable,Not Applicable,Not Applicable
+89,36-45,Non-binary,2-3 times a month,Yes,4,Product Didn't Match Description,No,Not Applicable,Not Applicable,Not Applicable
+90,18-25,Male,Rarely,Yes,5,Product Didn't Match Description,Yes,No,No Stock in Desired Size,Returned the Product
+91,46-55,Female,Once every 3 months,Yes,1,Product Didn't Match Description,No,Not Applicable,Not Applicable,Not Applicable
+92,26-35,Non-binary,2-3 times a month,Yes,2,Product Didn't Match Description,Maybe,Not Applicable,Not Applicable,Not Applicable
+93,56+,Male,Rarely,Yes,3,Product Didn't Match Description,Yes,No,No Stock in Desired Size,Returned the Product
+94,36-45,Female,Once every 3 months,Yes,4,Changed Mind,No,Not Applicable,Not Applicable,Not Applicable
+95,18-25,Non-binary,2-3 times a month,Yes,5,Changed Mind,No,Not Applicable,Not Applicable,Not Applicable
+96,46-55,Male,Rarely,Yes,1,Changed Mind,Yes,Yes,Not Applicable,Not Applicable
+97,26-35,Female,Once every 3 months,Yes,2,Changed Mind,No,Not Applicable,Not Applicable,Not Applicable
+98,56+,Non-binary,2-3 times a month,Yes,3,Late Delivery,No,Not Applicable,No stock in Desired Size,Not Applicable
+99,36-45,Male,Rarely,Yes,4,Late Delivery,Yes,No,Other,Kept the Product
+100,18-25,Female,Once every 3 months,Yes,5,Late Delivery,No,Not Applicable,Not Applicable,Not Applicable
+101,46-55,Non-binary,2-3 times a month,Yes,1,Other,No,Not Applicable,Not Applicable,Not Applicable
+102,26-35,Male,Rarely,Yes,2,Other,Yes,No,No Stock in Desired Size,
+103,56+,Female,Once every 3 months,Yes,3,Other,No,Not Applicable,Not Applicable,Not Applicable
+104,36-45,Non-binary,2-3 times a month,Yes,4,Other,No,Not Applicable,Not Applicable,Not Applicable
+105,18-25,Male,Rarely,Yes,5,Other,Yes,No,No Stock in Desired Size,returned the product
+106,46-55,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+107,26-35,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+108,56+,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+109,36-45,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Unavailable,Not Applicable,Not Applicable
+110,18-25,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+111,46-55,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+112,26-35,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+91,46-55,Female,Once every 3 months,Yes,1,Product Didn't Match Description,No,Not Applicable,Not Applicable,Not Applicable
+114,36-45,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+115,18-25,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+116,46-55,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+117,26-35,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+118,56+,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+119,36-45,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+120,18-25,,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+121,46-55,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+122,26-35,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+123,56+,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+124,36-45,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+125,18-25,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+126,46-55,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+127,26-35,Female,Once every 3 months,No,2,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+128,56+,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+129,36-45,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+130,18-25,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+131,46-55,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+132,26-35,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+133,56+,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+134,36-45,Non-binary,,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+135,18-25,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+136,46-55,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+137,26-35,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+104,36-45,Non-binary,2-3 times a month,Yes,4,Other,No,Not Applicable,Not Applicable,Not Applicable
+139,36-45,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+140,18-25,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+141,46-55,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+142,26-35,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+143,56+,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+144,36-45,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+145,18-25,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+149,46-55,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+147,26-35,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+148,56+,Female,Once every 3 months,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+149,36-45,Non-binary,2-3 times a month,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
+150,18-25,Male,Rarely,No,0,Not Applicable,Not Applicable,Not Applicable,Not Applicable,Not Applicable
